@@ -1,0 +1,5 @@
+{
+  "name": "Attendora",
+  "description": "Modern Attendance Management SaaS for small businesses with selfie and GPS verification.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
